@@ -1,3 +1,10 @@
+/*
+ * Author: Paul Gates, 2022
+ * Materials from:
+ *  Java Network Programming and Distributed Computing
+ *  chapter 4
+ */
+
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 

@@ -1,3 +1,11 @@
+
+/*
+ * Author: Paul Gates, 2022
+ * Materials from:
+ *  Java Network Programming and Distributed Computing
+ *  chapter 4
+ */
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
