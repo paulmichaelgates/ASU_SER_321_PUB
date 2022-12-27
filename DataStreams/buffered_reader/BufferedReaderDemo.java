@@ -1,3 +1,4 @@
+package DataStreams.buffered_reader;
 
 /*
  * Author: Paul Gates, 2022
@@ -12,7 +13,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class BufferedReaderDemo {
-
 
     public static void main(String[] args)throws IOException{
 
