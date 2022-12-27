@@ -16,6 +16,9 @@ public class BufferedReaderDemo {
 
     public static void main(String[] args)throws IOException{
 
+        /* probably the most important thing, using a Buffered reader to wrap a file reader for 
+         * faster reading
+         */
         BufferedReader br = new BufferedReader(new FileReader(new File("demo.txt")));
 
         String str;
